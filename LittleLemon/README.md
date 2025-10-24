@@ -42,7 +42,7 @@ LittleLemonApp/
   ├── animations/         # Splash Animation    
   ├── components/         # Reusable UI components
   ├── constants/          # Navigation stack & tab config
-  ├── context/            # to manage useContext
+  ├── context/            # to manage useContext📷
   ├── docs/               # Documentation files (images)
   ├── image/              # Images, fonts
   ├── navigation/         # Navigation stack config
@@ -50,6 +50,18 @@ LittleLemonApp/
   ├── storage/            # Common place to store the files regarding React Native Storage
   └── utils/              # Single file for Validation.
 ```
+---
+
+##  📷 App Image
+
+**HOME**
+
+<img width="428" height="920" alt="HOME" src="https://github.com/user-attachments/assets/6e64ed68-e89d-4379-9af7-4df26c8cbe8f" />
+
+![IMG_D31F90625919-1](https://github.com/user-attachments/assets/5f89f798-abd2-4d92-ac7a-8b787e6ff914)
+
+**PROFILE**
+![Uploading IMG_51194A6111E3-1.jpeg…]()
 
 
 =======
