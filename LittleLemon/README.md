@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Little Lemon App 🍋
 
 A mobile restaurant application built as the **capstone project** for the [Meta React Native Specialization on Coursera](https://www.coursera.org/specializations/meta-react-native).  
@@ -29,24 +28,16 @@ The app simulates a food ordering experience for **Little Lemon Restaurant**, sh
 
 ---
 
-## 📸 Screenshots
-
-| Onboarding | Home | Profile |
-|------------|------|----------|
-| ![Onboarding](src/docs/screens/onboarding.png) | ![Home](src/docs/screens/home.png) | ![Profile](src/docs/screens/profile.png) |
-
-| Wireframe | 
-|-----------|
-| ![Wireframe](src/docs/screens/wireframes.png) |
-
----
-
 ## 📂 Project Structure
 
 ```bash
 LittleLemonApp/
 ├── App.js                # Main entry point
+├── App.json              # Main entry point
+├── index.js              # Main entry point
 ├── README.md             # Project documentation
+├── Package.json          # Main entry point
+├── Package-lock.json     # Main entry point
 └── src
   ├── animations/         # Splash Animation    
   ├── components/         # Reusable UI components
@@ -59,24 +50,9 @@ LittleLemonApp/
   ├── storage/            # Common place to store the files regarding React Native Storage
   └── utils/              # Single file for Validation.
 ```
----
-
-## ▶️ Working Video
-
-You can watch the demo here:  
-[🎥 Download Certification App Demo](src/docs/screens/certificationApp.mp4)
-
-```bash
-└── src
-  └── docs
-    └── screens
-      └── certificationApp.mp4
-````
-
-
 
 
 =======
-# FinalProjectReact
+# FinalProjectReactLittleLemon
 Final project about course on Coursera
->>>>>>> da1d0658df7faa01621d91a266dbd3e093bb9af0
+
