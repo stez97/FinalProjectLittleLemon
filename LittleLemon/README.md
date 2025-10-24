@@ -61,7 +61,8 @@ LittleLemonApp/
 ![IMG_D31F90625919-1](https://github.com/user-attachments/assets/5f89f798-abd2-4d92-ac7a-8b787e6ff914)
 
 **PROFILE**
-![Uploading IMG_51194A6111E3-1.jpeg…]()
+
+![IMG_51194A6111E3-1](https://github.com/user-attachments/assets/cbe1b31f-d0b4-452d-93d0-cf74e2e63d7e)
 
 
 =======
